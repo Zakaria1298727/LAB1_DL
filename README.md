@@ -15,6 +15,5 @@ Performance du modèle : Le modèle atteint une bonne exactitude sur les donnée
 Lors de ce lab j'ai aquis :
 une compréhension approfondie des concepts de régression et de classification avec les réseaux de neurones,
 la maîtrise de l'utilisation de la bibliothèque PyTorch pour construire et entraîner des modèles de Deep Learning,
-l'application de l'analyse exploratoire des données pour mieux comprendre les caractéristiques d'un jeu de données,
-l'utilisation de techniques d'optimisation des hyperparamètres (comme GridSearch) pour améliorer la performance des modèles,
-et la mise en œuvre de techniques de régularisation pour éviter le surapprentissage et améliorer la généralisation du modèle.
+l'application de l'analyse exploratoire des données pour mieux comprendre les caractéristiques d'un jeu de données et
+l'utilisation de techniques d'optimisation des hyperparamètres (comme GridSearch) pour améliorer la performance des modèles.
